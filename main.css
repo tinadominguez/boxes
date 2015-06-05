@@ -15,12 +15,11 @@
 
 .box-2 {
     background: green;
-    float: left;
+    float: inherit;
 }
 
 .box-3 {
     background: #0021A5;
-    float: inherit;
 }
 
 .box-4 {
