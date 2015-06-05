@@ -15,7 +15,7 @@
 
 .box-2 {
     background: green;
-    float: right;
+    float: left;
 }
 
 .box-3 {
@@ -25,5 +25,5 @@
 
 .box-4 {
     background: #FF4A00;
-    float: right;
+    float: left;
 }
