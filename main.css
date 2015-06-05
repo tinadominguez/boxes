@@ -20,9 +20,10 @@
 
 .box-3 {
     background: #0021A5;
-    float: none;
+    float: inherit;
 }
 
 .box-4 {
     background: #FF4A00;
+    float: right;
 }
